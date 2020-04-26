@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/openchallenge2020/static/css/main.8071b14a.chunk.css",
+    "main.js": "/openchallenge2020/static/js/main.00a64848.chunk.js",
+    "main.js.map": "/openchallenge2020/static/js/main.00a64848.chunk.js.map",
+    "runtime-main.js": "/openchallenge2020/static/js/runtime-main.8adfbdfa.js",
+    "runtime-main.js.map": "/openchallenge2020/static/js/runtime-main.8adfbdfa.js.map",
+    "static/js/2.364ae952.chunk.js": "/openchallenge2020/static/js/2.364ae952.chunk.js",
+    "static/js/2.364ae952.chunk.js.map": "/openchallenge2020/static/js/2.364ae952.chunk.js.map",
+    "index.html": "/openchallenge2020/index.html",
+    "precache-manifest.7a81f1126e1621dd83d0f1f547328b07.js": "/openchallenge2020/precache-manifest.7a81f1126e1621dd83d0f1f547328b07.js",
+    "service-worker.js": "/openchallenge2020/service-worker.js",
+    "static/css/main.8071b14a.chunk.css.map": "/openchallenge2020/static/css/main.8071b14a.chunk.css.map",
+    "static/js/2.364ae952.chunk.js.LICENSE.txt": "/openchallenge2020/static/js/2.364ae952.chunk.js.LICENSE.txt",
+    "static/media/aep.png": "/openchallenge2020/static/media/aep.fda414f1.png",
+    "static/media/diptrace.png": "/openchallenge2020/static/media/diptrace.e3ba6abc.png",
+    "static/media/font-awesome.min.css": "/openchallenge2020/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/hypnogram-electrophysiologist.csv": "/openchallenge2020/static/media/hypnogram-electrophysiologist.b8cc6e10.csv",
+    "static/media/hypnogram-openbci-electrophysiologist.csv": "/openchallenge2020/static/media/hypnogram-openbci-electrophysiologist.53f2765d.csv",
+    "static/media/hypnogram-openbci-predicted.csv": "/openchallenge2020/static/media/hypnogram-openbci-predicted.bf6d0c34.csv",
+    "static/media/hypnogram-predicted.csv": "/openchallenge2020/static/media/hypnogram-predicted.172957b9.csv",
+    "static/media/hypnogram.csv": "/openchallenge2020/static/media/hypnogram.3c793400.csv",
+    "static/media/logo.png": "/openchallenge2020/static/media/logo.bcea7572.png",
+    "static/media/ntx.png": "/openchallenge2020/static/media/ntx.bdd09ab5.png",
+    "static/media/nucleo.css": "/openchallenge2020/static/media/nucleo-icons.f82ec6ba.ttf",
+    "static/media/polymtl.png": "/openchallenge2020/static/media/polymtl.3034d991.png",
+    "static/media/protocase.png": "/openchallenge2020/static/media/protocase.53bfde7a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8adfbdfa.js",
+    "static/js/2.364ae952.chunk.js",
+    "static/css/main.8071b14a.chunk.css",
+    "static/js/main.00a64848.chunk.js"
+  ]
+}
