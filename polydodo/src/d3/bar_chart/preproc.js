@@ -1,7 +1,12 @@
-export const domainColor = (color, states) => {
-  color
-    .domain(states)
-    .range(["#E3624B", "#B0C9D9", "#4da6fe", "#48587f", "#FFD443"]);
+import * as d3 from "d3";
+
+import { STATE_TO_COLOR, STATES } from "../constants";
+
+export const createColorScale = () => {
+  const colorScale = d3.scaleOrdinal();
+  const colors = STATES.map((x) => STATE_TO_COLOR[x]);
+
+  return colorScale.domain(STATES).range(colors);
 };
 
 export const domainX = (xFocus, data) => {

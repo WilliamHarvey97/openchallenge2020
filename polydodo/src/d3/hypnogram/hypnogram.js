@@ -23,12 +23,13 @@ import {
   createLegend,
 } from "./line-charts";
 import { createMouseOver } from "./mouse-over";
+import { STATES } from "../constants";
 
 const initializeScales = ({ width, height }) => {
   const x = d3.scaleTime().range([0, width]);
   const y = d3
     .scaleOrdinal()
-    .range([...Array(6).keys()].map((x) => (x / 5) * height));
+    .range(_.range(0, height + 1, height / STATES.length));
 
   return { x, y };
 };
